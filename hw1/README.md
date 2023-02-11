@@ -1,4 +1,7 @@
 # hw1
+**Name**: Ryan Toh    
+**Student ID**: 1005129
+
 Submission for Homework 1.
 - `HW1 Instructions.pdf` contains the questions for the assignment.
 - `data/` contains the data given as part of the questions.
