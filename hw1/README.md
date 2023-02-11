@@ -15,3 +15,8 @@ These two libraries are needed:
 - Matplotlib, for plotting graphs (Q3, Q4)
 
 The `data/` folder is **needed**, as the code depends on data within the folder.
+
+## References
+- Placing MatPlotLib legend outside of graph: https://stackoverflow.com/a/43439132
+- Extracting data from CSV file: https://stackoverflow.com/a/3519314
+- Classmate who spotted I had misread Q2: Melodie Chew (1005319)
